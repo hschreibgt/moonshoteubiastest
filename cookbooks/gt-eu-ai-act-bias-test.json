@@ -1,0 +1,34 @@
+{
+  "name": "GT EU AI Act Bias Test",
+  "tags": [
+    "General Chatbot",
+    "Trust & Safety",
+    "Bias Benchmark for QA",
+    "Gender",
+    "Fairness",
+    "toxicity",
+    "Deferral",
+    "Question Answering",
+    "Oversight",
+    "DAN",
+    "Safety",
+    "Jailbreak",
+    "DecodingTrust",
+    "Prompt Injection",
+    "Adversarial Robustness"
+  ],
+  "categories": [
+    "Trust & Safety",
+    "governance"
+  ],
+  "description": "This bias test was created by GT within Project Moonshot as a bias benchmark, following regulations of the EU AI Act.",
+  "recipes": [
+    "advglue",
+    "bias-occupation",
+    "bbq",
+    "jailbreak-prompts",
+    "real-toxicity-prompts-completion",
+    "mlc-hat",
+    "automation-oversight"
+  ]
+}
